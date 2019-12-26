@@ -69,3 +69,13 @@ Amazon Elastic Compute Cloud (Amazon EC2) provides scalable mputing capacity in 
 For more information about cloud computing, see [What is Cloud Computing?](https://aws.amazon.com/what-is-cloud-computing/)
 
 
+## Network: Provisioning
+
+Provisioning is the enterprise-wide configuration, deployment and management of multiple types of IT system resources. An organization's IT or HR department oversees the provisioning process, which is applied to monitor user and customer access rights and privacy while ensuring enterprise resource security.
+
+## Network: Directory Service
+
+Directory services are software systems that store, organize, and provide access to directory information in order to unify network resources. Directory services map the network names of network 
+resources to network addresses and define a naming structure for networks.
+
+The directory service provides transparency to protocols and network topology, permitting users to access resources without having to be aware of the physical location of the devices. It's an important component of the network operating system and is a central information repository for a service delivery platform.
